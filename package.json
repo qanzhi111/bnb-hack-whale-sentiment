@@ -1,0 +1,24 @@
+{
+  "name": "whale-sentiment-momentum-fusion",
+  "version": "1.0.0",
+  "description": "BNB Hack: AI Trading Agents - Track 2 Strategy Skills - Multi-factor momentum + whale + sentiment strategy",
+  "main": "strategy.js",
+  "type": "module",
+  "scripts": {
+    "backtest": "node strategy.js",
+    "start": "node strategy.js"
+  },
+  "keywords": [
+    "bnb-chain",
+    "trading-strategy",
+    "ai-agent",
+    "whale-tracking",
+    "sentiment-analysis",
+    "macd",
+    "rsi",
+    "coinmarketcap",
+    "hackathon"
+  ],
+  "author": "onchain-shadow",
+  "license": "MIT"
+}
